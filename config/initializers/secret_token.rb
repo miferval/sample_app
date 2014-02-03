@@ -9,6 +9,10 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
+<<<<<<< HEAD
+=======
+#SampleApp::Application.config.secret_key_base = 'd0e9f8a101aa7231b787ca66184b3b4619e2f7d3605473a1139c1d8ed001137d73c03bb4c2178989e86af4de57954ef64fdf35c333a67793d18a2fd9968e721d'
+>>>>>>> cffb4bad84fd0f453ce2d2db6b4f9f2f2695b52f
 require 'securerandom'
 
 def secure_token

@@ -1,6 +1,11 @@
 source 'https://rubygems.org'
 ruby '1.9.3'
+<<<<<<< HEAD
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
+=======
+#ruby-gemset=railstutorial_rails_4_0
+
+>>>>>>> cffb4bad84fd0f453ce2d2db6b4f9f2f2695b52f
 gem 'rails', '4.0.2'
 
 group :development, :test do
